@@ -5,6 +5,7 @@
         "namespace": "android_app",
         "package_name": "com.sec_mobile",
         "sha256_cert_fingerprints": [
+            "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
           "EB:C8:43:57:74:48:26:CA:52:46:E4:FA:91:80:89:FA:55:8D:08:9E:78:B4:BB:C8:2E:9D:D2:B0:AE:A5:3C:EA"
         ]
       }
